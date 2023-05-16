@@ -39,7 +39,7 @@ const toggleButton = document.querySelector('.toggle-nav');
 
 header.classList.toggle('scrolled', !entries[0].isIntersecting)
 
-  });
+  }, {rootMargin: "-200px 0px 0px 0px"});
 navObserver.observe(scrollWatcher)
 
 
