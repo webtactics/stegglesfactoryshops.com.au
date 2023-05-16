@@ -391,7 +391,7 @@ button.blogdetail, .button.blogdetail {margin:0;}
   background-color: rgba(0,0,0,0.30);
   width: 100%;
   padding: 0;
-  top: 0px;
+  top: 0;
   z-index: 3;
   -webkit-transition: all 0.6s;
 -moz-transition: all 0.6s;
