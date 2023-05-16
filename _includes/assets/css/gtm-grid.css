@@ -387,7 +387,7 @@ button.blogdetail, .button.blogdetail {margin:0;}
   display: none;
 }
 .topbar {
-  position: fixed;
+  position: sticky;
   background-color: rgba(0,0,0,0.30);
   width: 100%;
   padding: 0;
