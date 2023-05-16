@@ -13,7 +13,4 @@ eleventyNavigation:
 To book a massage please call Joy on [0411 447 704](tel:+61411447704), use our [booking page](/booking/) or email [joy@gtmassage.com.au](mailto:joy@gtmassage.com.au)
 
 **Opening hours**
-Monday–Friday: 9am - 5pm
-Saturday: 9am - 1pm (by prior booking only)
-
-Please call for bookings outside our "normal" hours, as we will do our best to accommodate wherever possible.
+Monday–Friday: 9am - 5pm.
