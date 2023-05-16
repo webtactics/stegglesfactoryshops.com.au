@@ -29,17 +29,20 @@ const toggleButton = document.querySelector('.toggle-nav');
   });
   
 
+  const header = document.querySelector('.topbar');
+  const scrollWatcher = document.createElement('div');
+
+  scrollWatcher.setAttribute('data-scroll-watcher', '');
+  header.before(scrollWatcher);
+
+  const navObserver = new IntersectionObserver((entries) => {
+
+header.classList.toggle('scrolled', !entries[0].isIntersecting)
+
+  });
+navObserver.observe(scrollWatcher)
 
 
 
-window.addEventListener('scroll', function() {
-  const logo = document.querySelector('.topbar');
-
-  if (window.scrollY > 150) { // Check if the user has scrolled 50 pixels or more
-    logo.classList.add('scrolled');
-  } else {
-    logo.classList.remove('scrolled');
-  }
-});
 
 
