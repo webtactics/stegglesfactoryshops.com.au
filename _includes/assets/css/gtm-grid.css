@@ -96,6 +96,12 @@ font-style: normal;
   color: #333333;
   text-rendering: optimizeLegibility;}
 
+
+  strong {
+    font-weight: 700;
+    color: var(--primary);
+  }
+
 .container {background: white; }
   .content-title { background: #ebebeb; display: flex;
         align-items: center;
