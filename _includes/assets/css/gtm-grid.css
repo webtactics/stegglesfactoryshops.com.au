@@ -588,7 +588,32 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   color: var(--white);
   background-color: var(--primary); font-weight: bold;}
 
+  ul.off-canvas-list li ul.second li a {
+    border-bottom: 1px solid #e6e6e6;
+    color: var(--white);
+    display: block;
+    padding: 0.75rem 1.5rem;
+    transition: background 300ms ease;
+    background: var(--red);
+  }
 
+  ul.off-canvas-list li ul.second li a:hover {
+    border-bottom: 1px solid #e6e6e6;
+    color: var(--white);
+    display: block;
+    padding: 0.75rem 1.5rem;
+    transition: background 300ms ease;
+    background: var(--green);
+  }
+
+  ul.off-canvas-list li ul.second li.active-class a {
+    border-bottom: 1px solid #e6e6e6;
+    color: var(--white);
+    display: block;
+    padding: 0.75rem 1.5rem;
+    transition: background 300ms ease;
+    background: var(--black);
+  }
 
 .hero {height: 100svh;height: 100vh;}
 .homebooklogo {
