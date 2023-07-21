@@ -7,6 +7,6 @@ date: 2023-01-01
 permalink: /booking/
 eleventyNavigation:
   key: Booking
-  order: 2
+  order: 3
 ---
 

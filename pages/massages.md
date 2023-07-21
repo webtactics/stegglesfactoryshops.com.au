@@ -6,6 +6,6 @@ date: 2023-04-19
 permalink: /massages/
 eleventyNavigation:
   key: Massages
-  order: 3
+  order: 2
 ---
 
