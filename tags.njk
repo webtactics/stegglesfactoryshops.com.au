@@ -12,14 +12,14 @@ permalink: /massages/{{ tag }}/
 layout: layouts/default.njk
 eleventyComputed:
   title: "Tagged “{{ tag }}”"
-  metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
+  metaDescription: "All posts from the Massages section tagged with “{{ tag }}”"
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<h1>Posts from the Massages section tagged with “{{ tag }}”</h1>
 
 {% set postslist = collections[tag] %}
 {% include "components/postslist.njk" %}
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/massages/' | url }}">← Massages index</a>
 </nav>
