@@ -3,7 +3,7 @@
     "permalink": "massages/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-      "massages"
+      "Massages"
     ]
   }
   
