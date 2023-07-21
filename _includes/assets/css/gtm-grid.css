@@ -805,7 +805,7 @@ grid-template-columns: 2fr 1fr;}
 
 .right {float:right;text-align:right;}
 
-
+.tags {padding-bottom: 2rem;}
 ul.tag {
   list-style-type: none;
   margin: 0;
