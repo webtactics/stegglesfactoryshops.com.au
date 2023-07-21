@@ -667,7 +667,10 @@ background-color: var(--white);
   margin: -80vh auto 0 auto;
   background-color: var(--white);
   }
-
+  .home.internal .content {
+    margin: -20vh auto 0 auto;
+    background-color: var(--white);
+    }
 
 }
 
