@@ -478,9 +478,11 @@ background-color: transparent;
   border-bottom: none;
   transition: all 0.3s;
 }
-.main-menu > li.current > a, .main-menu > li.active-class > a {
+.main-menu > li.current > a, .main-menu > li.active-class > a, .massage .main-menu > li.active-class > a  {
   color: var(--primary);
   background-color: var(--white);}
+
+
 
   
 

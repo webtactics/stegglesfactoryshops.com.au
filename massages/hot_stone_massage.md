@@ -13,6 +13,7 @@ description: Hot stone massage is a specialty massage where the therapist uses s
 time45: $70.00
 time60: $90.00
 time90: $120.00
+class: massage
 ---
 
 Hot stone massage is a specialty massage where the therapist uses smooth, heated stones to warm up tight muscles so they can work on pressure points and problem areas to alleviate tension and stress. Hot stones may either be placed on the body or used as an extension of the therapist's hands, which allows the therapist to work more deeply and more quickly.

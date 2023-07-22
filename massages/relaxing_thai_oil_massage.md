@@ -14,6 +14,7 @@ time30: $45.00
 time45: $65.00
 time60: $80.00
 time90: $110.00
+class: massage
 ---
 
 A more gentle and soothing massage designed to relax your mind and invigorate your body. Your therapist will use a combination of soothing gliding movements, firmer strokes to warm up the muscles, release tension and gradually break up muscle knots. It may include some deeper work on areas of specific muscle tension to suit your individual needs.
