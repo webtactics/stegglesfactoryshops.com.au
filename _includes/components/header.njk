@@ -8,7 +8,9 @@
 <div class="navwrapper">
 {% if post in collections.Massages %}
 <nav class="childlist"><ul class="main-menu"><li><a href="/">Home</a></li><li class="active-class"><a href="/massages/">Massages</a></li><li><a href="/booking/">Booking</a></li><li><a href="/contact/">Contact</a></li></ul></nav>
-{% else %}
+{% elseif  class == "massages" %}
+<nav class="childlist"><ul class="main-menu"><li><a href="/">Home</a></li><li class="active-class"><a href="/massages/">Massages</a></li><li><a href="/booking/">Booking</a></li><li><a href="/contact/">Contact</a></li></ul></nav>
+{%- endif -%}
 {% include "components/nav-top.njk" %}{% endif %}
 </div>
 <div class="socialwrapper">
