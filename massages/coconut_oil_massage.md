@@ -14,7 +14,6 @@ time30: $45.00
 time45: $65.00
 time60: $80.00
 time90: $110.00
-class: massage
 
 
 ---
