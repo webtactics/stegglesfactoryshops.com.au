@@ -596,7 +596,7 @@ ul.off-canvas-list li a:hover, ul.off-canvas-list li a:focus {
   font-weight: bold;
 }
 
-ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
+ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a, .massages ul.off-canvas-list > li > a {
   color: var(--white);
   background-color: var(--primary); font-weight: bold;}
 
