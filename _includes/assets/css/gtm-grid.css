@@ -149,13 +149,13 @@ font-style: normal;
           }
   
 @media screen and (min-width: 1025px) {
-  .logo img {max-width:130px;
+  .logo img {max-width:360px;
     -webkit-transition: all 0.6s;
 -moz-transition: all 0.6s;
 -ms-transition: all 0.6s;
 -o-transition: all 0.6s;
 transition: all 0.6s;}
-.scrolled .logo img {max-width:80px;
+.scrolled .logo img {max-width:240px;
     -webkit-transition: all 0.6s;
 -moz-transition: all 0.6s;
 -ms-transition: all 0.6s;
