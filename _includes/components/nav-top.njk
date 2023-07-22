@@ -1,23 +1,31 @@
 <nav class="childlist">
-{% set navPages = collections.all | eleventyNavigation %}
-{% macro renderNavListItem(entry) -%}
-<li{% if entry.url == page.url %} class="active-class"{% endif %}>
-  <a href="{{ entry.url }}">{{ entry.title }}</a>
-{%- if entry.children.length -%}
-<ul class="main-menu">
-    {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+  {% set navPages = collections.all | eleventyNavigation %}
+
+  {% macro renderNavListItem(entry) -%}
+    {% set isActive = false %}
+    {% if entry.url == page.url %}
+      {% set isActive = true %}
+    {% endif %}
+
+    {% if collections.Massages %}
+      {% for post in collections.Massages %}
+        {% if entry.url == post.url %}
+          {% set isActive = true %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    <li{% if isActive %} class="active-class"{% endif %}>
+      <a href="{{ entry.url }}">{{ entry.title }}</a>
+      {%- if entry.children.length -%}
+        <ul class="main-menu">
+          {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+        </ul>
+      {%- endif -%}
+    </li>
+  {%- endmacro %}
+
+  <ul class="main-menu">
+    {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
   </ul>
-{%- endif -%}
-{% for post in collections.Massages %}
-  <a href="{{ post.url }}" {% if post.url === page.url %}class="active"{% endif %}>{{ post.title }}</a>
-{% endfor %}
-</li>
-{%- endmacro %}
-
-
-<ul class="main-menu">
-{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
-</ul>
 </nav>
-
-
