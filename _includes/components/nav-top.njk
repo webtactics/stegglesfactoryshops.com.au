@@ -10,8 +10,29 @@
 {%- endif -%}
 </li>
 {%- endmacro %}
+{% for post in collections.Massages %}
+      <li>
+        <a href="{{ post.url }}" {% if post.url === page.url %}class="active"{% endif %}>
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
 
 <ul class="main-menu">
 {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
 </ul>
+</nav>
+
+<!-- _includes/navigation.njk -->
+
+<nav>
+  <ul>
+    {% for post in collections.Massages %}
+      <li>
+        <a href="{{ post.url }}" {% if post.url === page.url %}class="active"{% endif %}>
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </nav>
