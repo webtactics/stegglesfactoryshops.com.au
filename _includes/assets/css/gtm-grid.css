@@ -646,8 +646,8 @@ align-content: center;}
 .homebookingbutton {
   position: absolute;
   z-index: 2;
-  top: 50vh;
-  height: 100px;
+  top: 40vh;
+  height: 44px;
   width: 100%;
   text-align: center;
 }
