@@ -6,9 +6,7 @@
 <img src="https://ik.imagekit.io/webtactics/gtm/assets/gtmassage-logo.png?updatedAt=1689998741424" alt="Gloucester Thai Massage" title="Gloucester Thai Massage">
  </a></div>
 <div class="navwrapper">
-{% if post in collections.Massages %}
-<nav class="childlist"><ul class="main-menu"><li><a href="/">Home</a></li><li class="active-class"><a href="/massages/">Massages</a></li><li><a href="/booking/">Booking</a></li><li><a href="/contact/">Contact</a></li></ul></nav>
-{% elseif  class == "massages" %}
+{% if  class == "massages" %}
 <nav class="childlist"><ul class="main-menu"><li><a href="/">Home</a></li><li class="active-class"><a href="/massages/">Massages</a></li><li><a href="/booking/">Booking</a></li><li><a href="/contact/">Contact</a></li></ul></nav>
 {%- else -%}
 {% include "components/nav-top.njk" %}{% endif %}
