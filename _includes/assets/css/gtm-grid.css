@@ -478,7 +478,7 @@ background-color: transparent;
   border-bottom: none;
   transition: all 0.3s;
 }
-.main-menu > li.current > a, .main-menu > li.active-class > a, .massages .main-menu > li > a  {
+.main-menu > li.current > a, .main-menu > li.active-class > a {
   color: var(--primary);
   background-color: var(--white);}
 
@@ -596,7 +596,7 @@ ul.off-canvas-list li a:hover, ul.off-canvas-list li a:focus {
   font-weight: bold;
 }
 
-ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a, .massages ul.off-canvas-list > li > a {
+ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   color: var(--white);
   background-color: var(--primary); font-weight: bold;}
 
