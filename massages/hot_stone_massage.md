@@ -6,7 +6,7 @@ tags:
   - 45-min
   - 60-min
   - 90-min
-image: https://ik.imagekit.io/webtactics/gtmassage/images/massages/Hot-Stone-Massage.jpg
+image: https://ik.imagekit.io/webtactics/gtmassage/static/img/massages/Hot-Stone-Massage.jpg
 imageAlt: Hot Stone Massage
 description: Hot stone massage is a specialty massage where the therapist uses smooth, heated stones to warm up tight muscles so they can work on pressure points and problem areas to alleviate tension and stress.
 
