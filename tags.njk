@@ -11,11 +11,11 @@ pagination:
 permalink: /massages/{{ tag }}/
 layout: layouts/default.njk
 eleventyComputed:
-  title: "Tagged “{{ tag }}”"
+  title: "Massages tagged with “{{ tag }}"
   metaDescription: "All posts from the Massages section tagged with “{{ tag }}”"
 ---
 
-<h1>Posts from the Massages section tagged with “{{ tag }}”</h1>
+<h1>Massages tagged with “{{ tag }}”</h1>
 
 {% set postslist = collections[tag] %}
 {% include "components/postslist.njk" %}
