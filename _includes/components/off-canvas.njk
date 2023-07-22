@@ -2,7 +2,14 @@
 <button class="close-nav">Close</button>
 <h3>Menu</h3>
 <div class="mobilemenu">
-{% include "components/nav-side.njk" %}
+{% if  class == "massages" %}
+<ul class="off-canvas-list"><li><a href="/" title="Home" alt="Home">Home</a></li><li class="active-class"><a href="/massages/" title="Massages" alt="Massages">Massages</a></li><li><a href="/booking/" title="Booking" alt="Booking">Booking</a></li><li><a href="/contact/" title="Contact" alt="Contact">Contact</a></li></ul>
+{%- else -%}
+{% include "components/nav-side.njk" %}{% endif %}
+
+
+
+
 </div>
 <div class="mobilesocial">
 <ul class="menusocial">
