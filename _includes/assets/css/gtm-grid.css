@@ -149,18 +149,18 @@ font-style: normal;
           }
   
 @media screen and (min-width: 1025px) {
-  .logo img {max-width:360px;
-    -webkit-transition: all 0.6s;
--moz-transition: all 0.6s;
--ms-transition: all 0.6s;
--o-transition: all 0.6s;
-transition: all 0.6s;}
-.scrolled .logo img {max-width:240px;
-    -webkit-transition: all 0.6s;
--moz-transition: all 0.6s;
--ms-transition: all 0.6s;
--o-transition: all 0.6s;
-transition: all 0.6s;}
+  .logo img {max-width:370px;
+    -webkit-transition: all 1s;
+-moz-transition: all 1s;
+-ms-transition: all 1s;
+-o-transition: all 1s;
+transition: all 1s;}
+.scrolled .logo img {max-width:260px;
+    -webkit-transition: all 1s;
+-moz-transition: all 1s;
+-ms-transition: all 1s;
+-o-transition: all 1s;
+transition: all 1s;}
 
 }
 @media screen and (max-width: 1025px) {
@@ -169,17 +169,17 @@ transition: all 0.6s;}
 }
 .logo {position:absolute;right:0.5rem;text-align: right;}
 .logo img {max-width:80px;
-  -webkit-transition: all 0.6s;
--moz-transition: all 0.6s;
--ms-transition: all 0.6s;
--o-transition: all 0.6s;
-transition: all 0.6s;}
+  -webkit-transition: all 1s;
+-moz-transition: all 1s;
+-ms-transition: all 1s;
+-o-transition: all 1s;
+transition: all 1s;}
 .scrolled .logo img {max-width:50px;
-  -webkit-transition: all 0.6s;
--moz-transition: all 0.6s;
--ms-transition: all 0.6s;
--o-transition: all 0.6s;
-transition: all 0.6s;}
+  -webkit-transition: all 1s;
+-moz-transition: all 1s;
+-ms-transition: all 1s;
+-o-transition: all 1s;
+transition: all 1s;}
 }
 
 
