@@ -165,7 +165,7 @@ font-style: normal;
           -ms-transition: all 1s;
           -o-transition: all 1s;
           transition: all 1s;}
-          .scrolled .logo img {max-width:260px;
+          .scrolled .logo img {max-width:280px;
               -webkit-transition: all 1s;
           -moz-transition: all 1s;
           -ms-transition: all 1s;
@@ -175,13 +175,13 @@ font-style: normal;
           }
   
 @media screen and (min-width: 1025px) {
-  .logo img {max-width:300px;
+  .logo img {max-width:260px;
     -webkit-transition: all 1s;
 -moz-transition: all 1s;
 -ms-transition: all 1s;
 -o-transition: all 1s;
 transition: all 1s;}
-.scrolled .logo img {max-width:200px;
+.scrolled .logo img {max-width:220px;
     -webkit-transition: all 1s;
 -moz-transition: all 1s;
 -ms-transition: all 1s;
