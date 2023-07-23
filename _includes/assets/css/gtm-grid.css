@@ -453,7 +453,7 @@ ul, ul.menusocial, ul.main-menu {
     padding-inline-start: 0;
 }
 ul.main-menu li {
-  float: left;
+  text-align: center;
 }
 ul.menusocial li {
   float: right;
