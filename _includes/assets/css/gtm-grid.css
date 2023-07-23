@@ -177,7 +177,7 @@ font-style: normal;
 
 
  @media screen and (min-width: 1500px) {
-            .logo img {max-width:360px;
+            .logo img {max-width:340px;
               -webkit-transition: all 1s;
           -moz-transition: all 1s;
           -ms-transition: all 1s;
