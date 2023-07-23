@@ -7,7 +7,7 @@ tags:
   - 45-min
   - 60-min
   - 90-min
-image: https://ik.imagekit.io/webtactics/gtmassage/massages/Thai-Massage-leg-strech.jpg
+image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Massage-leg-strech.jpg
 imageAlt: Wat Pho Traditional Thai Massage
 description: Our speciality, and base of training. Wat Pho Traditional Thai Massage is an ancient healing therapy based on Yoga and Ayurveda.
 metadescription: Our speciality, and base of training. Wat Pho Traditional Thai Massage is an ancient healing therapy based on Yoga and Ayurveda.
