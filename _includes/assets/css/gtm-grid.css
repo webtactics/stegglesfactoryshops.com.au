@@ -117,6 +117,17 @@ font-style: normal;
           "hamburger logo";
           grid-template-rows: 44px;
  }  
+ @media only screen and (min-width: 1025px) {  
+  .headerwrapper {
+  display: grid;
+  grid-template-columns: 120px 300px 1fr 50px;
+  grid-template-areas:
+    "hamburger logo nav socialwrapper";
+    grid-template-rows: 64px; } 
+
+    .headerwrapper.scrolled {
+    grid-template-rows: 44px; } 
+}
  
  @media only screen and (min-width: 1500px) {  
   .headerwrapper {
@@ -130,17 +141,7 @@ font-style: normal;
     grid-template-rows: 44px; } 
 }
   
-@media only screen and (min-width: 1025px) {  
-        .headerwrapper {
-        display: grid;
-        grid-template-columns: 120px 300px 1fr 50px;
-        grid-template-areas:
-          "hamburger logo nav socialwrapper";
-          grid-template-rows: 64px; } 
 
-          .headerwrapper.scrolled {
-          grid-template-rows: 44px; } 
-    }
     
 .hamburger { grid-area: hamburger; }
       .logo { grid-area: logo; }
