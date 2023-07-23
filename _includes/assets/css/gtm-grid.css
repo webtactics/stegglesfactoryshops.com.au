@@ -130,8 +130,6 @@ font-style: normal;
 }
  
 
-  .childlist {margin:0 auto; padding-left:1.5rem;}
-
     
 .hamburger { grid-area: hamburger; }
       .logo { grid-area: logo; }
