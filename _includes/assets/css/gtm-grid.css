@@ -704,7 +704,7 @@ background-color: var(--white);
 .content {padding: 1rem 0.5rem;}
 
 .internal .content {
-  margin: -80vh auto 0 auto;
+  margin: -90vh auto 0 auto;
   min-height: 400px;
   }
   .home.internal .content {
