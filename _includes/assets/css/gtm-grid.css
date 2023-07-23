@@ -466,7 +466,11 @@ ul.menusocial li {
     width: 200px;
     text-align: center;
 }
-
+@media screen and (max-width: 1600px) {
+  .main-menu > li {
+width: 160px;
+}
+}
 @media screen and (max-width: 1400px) {
   .main-menu > li {
 width: 120px;
