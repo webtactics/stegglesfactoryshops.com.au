@@ -763,7 +763,12 @@ background-color: var(--white);
   background-color: var(--white);
   min-height: 800px;
   }
-
+  @media (max-width: 1279px) {
+   .internal .content {
+      margin: 0 auto;
+      min-height: 400px;
+      }
+    }
 
 @media (max-width: 1024px) {
 .content {padding: 1rem 0.5rem;}
