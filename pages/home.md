@@ -14,4 +14,4 @@ eleventyNavigation:
 
 To book a massage please use our [booking page](/booking/), call Joy on [0411 447 704](tel:+61411447704), or email [joy@gtmassage.com.au](mailto:joy@gtmassage.com.au).
 
-### Our Services and massages:
+## Our Services and massages: ##
