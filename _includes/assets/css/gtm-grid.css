@@ -708,7 +708,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   .herohome {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-6_8NONfbWy-.jpg?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
 }
 @media (max-width: 500px) {
-  .herohome {height: 10svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-6_8NONfbWy-.jpg?tr=w-400,h-200) no-repeat center center;width:100%; background-size:cover;position: relative;}
+  .herohome {height: 80svh;height: 80vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-6_8NONfbWy-.jpg?tr=w-400,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
 }
 
 
