@@ -717,7 +717,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   .herodet {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-5_BMsQaHq_y.jpg?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
 }
 @media (max-width: 500px) {
-  .herodetail {height: 80svh;height: 80vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-5_BMsQaHq_y.jpg?tr=w-400,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
+  .herodetail {height: 10svh;height: 10vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-5_BMsQaHq_y.jpg?tr=w-400,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
 }
 
 
