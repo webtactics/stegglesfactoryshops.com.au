@@ -760,16 +760,26 @@ background-color: var(--white);
 .content {padding: 1rem 0.5rem;}
 
 .internal .content {
-  margin: -90vh auto 0 auto;
+  margin: -40vh auto 0 auto;
   min-height: 400px;
   }
-  .home.internal .content {
-    margin: 0 auto;
 
-    }
 
 }
 
+@media (max-width: 500px) {
+  .content {padding: 1rem 0.5rem;}
+  
+  .internal .content {
+    margin: 0 auto;
+    min-height: 400px;
+    }
+    .home.internal .content {
+      margin: 0 auto;
+  
+      }
+  
+  }
 
 .footer {
   background-color: var(--primary);
