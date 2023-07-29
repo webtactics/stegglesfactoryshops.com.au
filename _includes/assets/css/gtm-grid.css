@@ -776,16 +776,7 @@ background-color: var(--white);
       }
     }
 
-@media (max-width: 1024px) {
-.content {padding: 1rem 0.5rem;}
 
-.internal .content {
-  margin: -40vh auto 0 auto;
-  min-height: 400px;
-  }
-
-
-}
 
 @media (max-width: 500px) {
   .content {padding: 1rem 0.5rem;}
