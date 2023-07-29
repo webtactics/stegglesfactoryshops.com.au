@@ -764,7 +764,7 @@ background-color: var(--white);
   min-height: 400px;
   }
   .home.internal .content {
-    margin: -20vh auto 0 auto;
+    margin: 0 auto;
 
     }
 
