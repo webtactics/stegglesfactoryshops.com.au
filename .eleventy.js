@@ -87,6 +87,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy({ static: "/" });
   eleventyConfig.addPassthroughCopy("admin/");
+  eleventyConfig.addPassthroughCopy("robots.txt");
   // We additionally output a copy of our CSS for use in Netlify CMS previews
   eleventyConfig.addPassthroughCopy("_includes/assets/css/gtm-grid.css");
     // We additionally output a copy of our js for use in Netlify CMS previews
