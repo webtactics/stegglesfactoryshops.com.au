@@ -2,16 +2,9 @@ User-agent: *
 
 Sitemap: https://www.gtmassage.com.au/sitemap.xml
 
-Disallow: /assets/
-Disallow: /doc/
-Disallow: /install/
-Disallow: /lib/
-Disallow: /modules/
-Disallow: /module_custom/
-Disallow: /plugins/
-Disallow: /scripts/
-Disallow: /tmp/
+Disallow: /admin/
+Disallow: /ignore/
 
-Allow: /assets/sitemaps/
-Allow: /assets/themes/
-Allow: /tmp/cache/
+
+
+
