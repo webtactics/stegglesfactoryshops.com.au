@@ -139,7 +139,6 @@ font-style: normal;
   }
 
 .container {
-background: var(--white);
 min-height:100vh;  
 position: relative;
 z-index: 1;}
