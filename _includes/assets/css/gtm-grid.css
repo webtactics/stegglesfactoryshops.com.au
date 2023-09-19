@@ -697,7 +697,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     background: var(--black);
   }
 
-.hero, .herohome, .herodetail {z-index:2;}
+.hero, .herohome, .herodetail {z-index:1;}
 
 .herohome {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-6_8NONfbWy-.jpg?tr=w-1200,h-800) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
