@@ -794,7 +794,7 @@ background-color: var(--white);
 .footer {
   background-color: var(--primary);
   padding: 1rem 0;
-  position: fixed;
+  position: sticky;
   bottom: 0;
   left:0;
   width: 100%;
@@ -802,7 +802,6 @@ background-color: var(--white);
   color: var(--white);
   font-size: 90%;
 z-index: -10;
-height:20vh;
 }
 .footerwrap {max-width:1280px;margin:0 auto;padding:1rem;
 color: var(--white);
