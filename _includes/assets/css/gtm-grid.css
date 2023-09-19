@@ -138,9 +138,13 @@ font-style: normal;
     color: var(--primary);
   }
 
-.container {background: white;
-z-index:1; min-height:100vh;}
-  .content-title { background: #ebebeb; display: flex;
+.container {
+background: var(--white);
+min-height:100vh;  
+position: relative;
+z-index: 1;}
+  
+.content-title { background: #ebebeb; display: flex;
         align-items: center;
         justify-content: center;}
      
