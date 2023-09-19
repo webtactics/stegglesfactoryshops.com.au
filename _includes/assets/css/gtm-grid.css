@@ -794,6 +794,12 @@ background-color: var(--white);
   background-color: var(--primary);
   padding: 1rem 0;
   z-index: 4;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: var(--white);
+  font-size: 90%;
 }
 .footerwrap {max-width:1280px;margin:0 auto;padding:1rem;
 color: var(--white);
