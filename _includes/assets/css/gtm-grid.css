@@ -138,7 +138,8 @@ font-style: normal;
     color: var(--primary);
   }
 
-.container {background: white; }
+.container {background: white;
+z-index:2; }
   .content-title { background: #ebebeb; display: flex;
         align-items: center;
         justify-content: center;}
