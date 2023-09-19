@@ -797,9 +797,6 @@ background-color: var(--white);
 .footer {
   background-color: var(--primary);
   padding: 1rem 0;
-  position: sticky;
-  bottom: 0;
-  left:0;
   width: 100%;
   text-align: center;
   color: var(--white);
