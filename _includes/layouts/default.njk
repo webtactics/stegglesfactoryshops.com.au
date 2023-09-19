@@ -6,14 +6,12 @@
 	
 <body class=" {{ class }} internal" >
 {% include "components/header.njk" %}
-  {% include "components/off-canvas.njk" %}
-  {% block hero %}
-  {% include "components/hero.njk" %}
-  {% endblock %}
+{% include "components/off-canvas.njk" %}
+{% block hero %}
+{% include "components/hero.njk" %}
+{% endblock %}
 
 <div class="container">
-   
-
 {% block content %}
 <section role="main" class="content">  
 {{ layoutContent | safe }}
