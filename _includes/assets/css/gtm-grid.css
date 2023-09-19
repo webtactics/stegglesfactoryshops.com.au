@@ -139,7 +139,7 @@ font-style: normal;
   }
 
 .container {background: white;
-z-index:2; }
+z-index:1; min-height:100vh;}
   .content-title { background: #ebebeb; display: flex;
         align-items: center;
         justify-content: center;}
