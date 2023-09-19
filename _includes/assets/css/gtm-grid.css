@@ -800,6 +800,7 @@ background-color: var(--white);
   text-align: center;
   color: var(--white);
   font-size: 90%;
+  z-index: -1000;
 }
 .footerwrap {max-width:1280px;margin:0 auto;padding:1rem;
 color: var(--white);
