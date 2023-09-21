@@ -953,7 +953,10 @@ grid-template-columns: 2fr 1fr;}
 
 .NewsSummaryLinkHome {padding:0.5rem 0 0 0;}
 .NewsSummaryPrice {font-size:0.85rem;color:var(--green);padding:0.5rem 0;}
-.postsumhome {color:rgba(129,129,129,1.00);padding:0.5rem 0;min-height:150px;font-size:1rem;
+.postsumhome p {color:var(--text);
+  padding:0.5rem 0;
+  min-height:150px;
+  font-size:1rem;
 display: -webkit-box;
 -webkit-line-clamp:3;
 -webkit-box-orient:vertical;
