@@ -95,6 +95,7 @@ a:not([class]) {
   color: var(--primary);
   text-decoration: none;
   cursor: pointer;
+  border-bottom: 1px dotted var(--black);
 }
 
 /* Make images easier to work with */
