@@ -10,10 +10,10 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Wat-Pho-Traditional-Thai-Foot-Reflexology.jpg
 imageAlt: Wat Pho Thai Foot Reflexology
 description: A centuries-old healing therapy combining Thai massage techniques working on acupressure points from the knees down.
-time30: $45.00
-time45: $65.00
-time60: $80.00
-time90: $110.00
+time30: $50.00
+time45: $70.00
+time60: $90.00
+time90: $120.00
 
 ---
 

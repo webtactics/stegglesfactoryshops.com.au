@@ -10,10 +10,10 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Relaxation-or-Swedish-Massage.jpg
 imageAlt: Relaxing Thai Oil Massage
 description: A more gentle and soothing massage designed to relax your mind and invigorate your body.
-time30: $45.00
-time45: $65.00
-time60: $80.00
-time90: $110.00
+time30: $50.00
+time45: $70.00
+time60: $90.00
+time90: $120.00
 
 ---
 

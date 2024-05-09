@@ -10,10 +10,10 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Sport-and-Deep-Tissue-Massage.jpg
 imageAlt: Thai Sport and Deep Tissue Massage
 description: A strong massage for those who want to prevent or relieve muscle tension that can build up within the body’s tissues from sporting activities or exercise.
-time30: $45.00
-time45: $65.00
-time60: $80.00
-time90: $110.00
+time30: $50.00
+time45: $70.00
+time60: $90.00
+time90: $120.00
 
 ---
 

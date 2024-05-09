@@ -11,10 +11,10 @@ image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Massage-leg
 imageAlt: Wat Pho Traditional Thai Massage
 description: Our speciality, and base of training. Wat Pho Traditional Thai Massage is an ancient healing therapy based on Yoga and Ayurveda.
 metadescription: Our speciality, and base of training. Wat Pho Traditional Thai Massage is an ancient healing therapy based on Yoga and Ayurveda.
-time30: $45.00
-time45: $65.00
-time60: $80.00
-time90: $110.00
+time30: $50.00
+time45: $70.00
+time60: $90.00
+time90: $120.00
 
 ---
 

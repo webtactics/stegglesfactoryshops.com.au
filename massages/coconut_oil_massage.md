@@ -10,10 +10,10 @@ tags:
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Hot-Coconut-Oil-Massage.jpg
 imageAlt: Coconut Oil Massage
 description: Essential oils are heated and used during this massage which brings deep comfort and the feeling of complete regeneration.
-time30: $45.00
-time45: $65.00
-time60: $80.00
-time90: $110.00
+time30: $50.00
+time45: $70.00
+time60: $90.00
+time90: $120.00
 
 
 ---
