@@ -27,15 +27,15 @@ package = "@netlify/plugin-sitemap"
   trailingSlash = true
   exclude = [
 
-  'https://www.gtmassage.com.au.com.au/404/',
-  'https://www.gtmassage.com.au.com.au/404.html',
-  'https://www.gtmassage.com.au.com.au/admin/',
-  'https://www.gtmassage.com.au.com.au/admin/email-templates/confirmation.html',
-  'https://www.gtmassage.com.au.com.au/admin/email-templates/email-change.html',
-  'https://www.gtmassage.com.au.com.au/admin/email-templates/invitation.html',
-  'https://www.gtmassage.com.au.com.au/admin/email-templates/confirmation/',
-  'https://www.gtmassage.com.au.com.au/admin/email-templates/email-change/',
-  'https://www.gtmassage.com.au.com.au/admin/email-templates/invitation/'
+  'https://www.gtmassage.com.au/404/',
+  'https://www.gtmassage.com.au/404.html',
+  'https://www.gtmassage.com.au/admin/',
+  'https://www.gtmassage.com.au/admin/email-templates/confirmation.html',
+  'https://www.gtmassage.com.au/admin/email-templates/email-change.html',
+  'https://www.gtmassage.com.au/admin/email-templates/invitation.html',
+  'https://www.gtmassage.com.au/admin/email-templates/confirmation/',
+  'https://www.gtmassage.com.au/admin/email-templates/email-change/',
+  'https://www.gtmassage.com.au/admin/email-templates/invitation/'
 
 
   
