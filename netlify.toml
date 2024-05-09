@@ -33,6 +33,10 @@ package = "@netlify/plugin-sitemap"
   'https://www.gtmassage.com.au.com.au/admin/email-templates/confirmation.html',
   'https://www.gtmassage.com.au.com.au/admin/email-templates/email-change.html',
   'https://www.gtmassage.com.au.com.au/admin/email-templates/invitation.html',
+  'https://www.gtmassage.com.au.com.au/admin/email-templates/confirmation/',
+  'https://www.gtmassage.com.au.com.au/admin/email-templates/email-change/',
+  'https://www.gtmassage.com.au.com.au/admin/email-templates/invitation/'
+
 
   
   
