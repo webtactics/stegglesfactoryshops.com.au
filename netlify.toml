@@ -12,6 +12,36 @@
 #  to = "/blog/:splat"
 # status = 302
 
+
+
+[[redirects]]
+  from = "/home/"
+  to = "/"
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "_site"
+  prettyURLs = true
+  trailingSlash = true
+  exclude = [
+
+  'https://www.gtmassage.com.au/404/',
+  'https://www.gtmassage.com.au/404.html',
+  'https://www.gtmassage.com.au/admin/',
+  'https://www.gtmassage.com.au/admin/email-templates/confirmation.html',
+  'https://www.gtmassage.com.au/admin/email-templates/email-change.html',
+  'https://www.gtmassage.com.au/admin/email-templates/invitation.html',
+  'https://www.gtmassage.com.au/admin/email-templates/confirmation/',
+  'https://www.gtmassage.com.au/admin/email-templates/email-change/',
+  'https://www.gtmassage.com.au/admin/email-templates/invitation/'
+
+
+  
+  
+  ]
+
 # The default HTTP status code is 301, but you can define a different one e.g.
 
 # Headers rule example
