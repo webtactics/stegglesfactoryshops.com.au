@@ -1,6 +1,20 @@
 {% set js %}
-{% include "assets/js/script.js" %}
+{% include "assets/js/slick.min.js" %}
 {% endset %}
 <script>{{ js | jsmin | safe }}</script>
 
-{% include "components/google-analytics.njk" %}
+<script>
+$('.home-slide').slick({
+autoplay: true,
+infinite: true,
+pauseOnHover: false,
+swipeToSlide: true,
+autoplaySpeed: 6000,
+speed: 3000,
+arrows: false,
+dots: false,
+fade: true,
+ cssEase: 'ease'
+    
+  });
+  </script>
