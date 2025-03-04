@@ -101,7 +101,7 @@ img, svg, video {max-width: 100%;display: block;}
 .container {
     width: 100%;
     min-height: 100vh;
-    background: black;
+ 
     display: grid;
   }
   
@@ -111,11 +111,8 @@ img, svg, video {max-width: 100%;display: block;}
     width:1920px;
     place-self: center; }
 
-.hero {z-index:1;
-position:relative;
-margin:0 auto;
-height:1080px;
-width:100%; 
+.hero {
+ 
 background-size:cover;
 }
 
