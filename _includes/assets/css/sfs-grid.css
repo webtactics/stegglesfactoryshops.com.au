@@ -1,8 +1,20 @@
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: black;
+    display: grid;
+  }
+  
 
+
+.sliderbox {height:1080px;
+    width:1920px;
+    place-self: center; }
 
 .hero {z-index:1;
-height:1080p;
-width:1920px;
-margin:0 auto;}
-
-
+position:relative;
+margin:0 auto;
+height:1080px;
+width:100%; 
+background-size:cover;
+}

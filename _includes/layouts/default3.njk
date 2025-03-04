@@ -1,15 +1,15 @@
-<!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
 
 {% include "components/head.njk" %}
 
 	
 <body class=" {{ class }} internal" >
+<div class="container">
 
 {% block hero %}
 {% include "components/hero-1.njk" %}
 {% endblock %}
-
+</div>
 
 {% include "components/javascript.njk" %}
 
