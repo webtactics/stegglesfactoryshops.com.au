@@ -112,7 +112,9 @@ img, svg, video {max-width: 100%;display: block;}
     place-self: center; }
 
 
-
+    .internalhero {
+        height: 100vh;
+      }
 
 /* Slider */
 .slick-slider {
