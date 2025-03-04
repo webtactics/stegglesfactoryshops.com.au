@@ -111,14 +111,8 @@ img, svg, video {max-width: 100%;display: block;}
     width:1920px;
     place-self: center; }
 
-.hero {
- 
-background-size:cover;
-}
 
-.internalhero {
-    height: 100vh;
-  }
+
 
 /* Slider */
 .slick-slider {
@@ -194,4 +188,5 @@ background-size:cover;
   
   .slick-arrow.slick-hidden {
     display: none; }
-  
+
+
