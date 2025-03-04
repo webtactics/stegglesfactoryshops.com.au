@@ -80,9 +80,6 @@ textarea:not([rows]) {
 /* end reset */
 
 
-
-
-
 html,
 body {
 	padding: 0;
@@ -97,11 +94,9 @@ scroll-behavior: smooth;
 img, svg, video {max-width: 100%;display: block;}
 
 
-
 .container {
     width: 100%;
     min-height: 100vh;
- 
     display: grid;
   }
   
@@ -109,12 +104,13 @@ img, svg, video {max-width: 100%;display: block;}
 
 .sliderbox {height:1080px;
     width:1920px;
-    place-self: center; }
+    place-self: center; 
+}
 
 
-    .internalhero {
-        height: 100vh;
-      }
+.internalhero {
+    height:1080px;
+ }
 
 /* Slider */
 .slick-slider {
