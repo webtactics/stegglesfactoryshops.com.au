@@ -109,12 +109,14 @@ img, svg, video {max-width: 100%;display: block;}
     width:100vw;
     max-width:1920px;
     place-self: center; 
+    aspect-ratio: 1920/1080;
 }
 
 
 .internalhero {
     height:100vh;
     max-height:1080px;
+    aspect-ratio: 1920/1080;
  }
 
 /* Slider */
