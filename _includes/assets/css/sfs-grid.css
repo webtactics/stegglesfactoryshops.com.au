@@ -102,14 +102,19 @@ img, svg, video {max-width: 100%;display: block;}
   
 
 
-.sliderbox {height:1080px;
-    width:1920px;
+.sliderbox {
+    
+    height:100vh;
+    max-height:1080px;
+    width:100vw;
+    max-width:1920px;
     place-self: center; 
 }
 
 
 .internalhero {
-    height:1080px;
+    height:100vh;
+    max-height:1080px;
  }
 
 /* Slider */
