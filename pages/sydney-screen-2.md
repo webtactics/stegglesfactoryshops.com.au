@@ -1,5 +1,5 @@
 ---
-layout: layouts/default2.njk
+layout: layouts/default1.njk
 title: Sydney Screen 2
 date: 2025-03-03
 class: sydney-screen-2
