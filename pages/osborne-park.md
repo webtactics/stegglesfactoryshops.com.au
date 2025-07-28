@@ -1,13 +1,10 @@
 ---
 layout: layouts/email.njk
 title:  Sign up to receive best prices on quality chicken and turkey products from The Steggles Shop Osborne Park.
-class: email
-date: 2023-07-20
+date: 2025-07-28
 description: The Steggles Shop Osborne Park is a factory outlet located at 124 Howe St, Osborne Park WA 6017 and your one-stop shop for fresh poultry and turkey, served by our friendly and experienced staff, direct to the public at great prices.
-permalink: /osborne-park.html
-eleventyNavigation:
-  key: Osborne Park
-  order: 4
+permalink: /osborne-park
+
 ---
 
 
