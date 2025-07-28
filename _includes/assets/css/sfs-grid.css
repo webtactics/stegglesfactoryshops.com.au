@@ -281,3 +281,15 @@ ul.slick-dots {margin:0;}
 }
 
 .hide {display:none;}
+
+
+
+/* email sign-up forms */
+
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}

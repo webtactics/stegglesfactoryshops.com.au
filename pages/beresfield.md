@@ -2,7 +2,7 @@
 layout: layouts/email.njk
 title:  Sign up to receive best prices on quality chicken and turkey products from The Steggles Shop Beresfield.
 date: 2025-07-28
-description: The Steggles Shop Beresfield is a factory outlet located at 124 Howe St, Beresfield WA 6017 and your one-stop shop for fresh poultry and turkey, served by our friendly and experienced staff, direct to the public at great prices.
+description: The Steggles Shop Beresfield is a factory outlet located at Hawthorn St, Beresfield NSW, 2322 and your one-stop shop for fresh poultry and turkey, served by our friendly and experienced staff, direct to the public at great prices.
 permalink: /beresfield.html
 
 ---
@@ -13,27 +13,6 @@ permalink: /beresfield.html
 
 
 
-<div>
-    <h1>Sign up to receive best prices on quality chicken and turkey products from The Steggles Shop Beresfield.</h1>
-   
-
-<form class="js-cm-form" id="subForm" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="191722FC90141D02184CB1B62AB3DC2622DFDAC6C55E7CA01C64F3134F3171EF005D18FCC7271B4B84418032800F39487C73C90D839D4B0BC59EC2FBC28BADEF">
-
-<div>
-    <div>
-        <label for="fieldName">Name </label>
-            <input id="fieldName" maxlength="200" name="cm-name">
-    </div>
-    <div>
-        <label for="fieldEmail">Email </label>
-            <input autocomplete="Email" class="js-cm-email-input qa-input-email" id="fieldEmail" maxlength="200" name="cm-giuttl-giuttl" required="" type="email">
-    </div>
-</div>
-
-<button type="submit">Subscribe</button>
-</form>
-
-</div>
-<script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+<div class="l-form-default" style="min-height: calc(100vh - 15rem); padding-bottom: 10rem; padding-top: 5rem; background: #EEEEEE;"><div><div class="l-center-container"><div class="sc-ckVGcZ jslhpj"><h1 class="sc-jKJlTe jmtkzV">Receive the latest Specials from The Steggles Shop Osborne Park</h1></div><div><div class="sc-bdVaJa iIDDUy"><form class="js-cm-form" id="subForm" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="191722FC90141D02184CB1B62AB3DC2622DFDAC6C55E7CA01C64F3134F3171EF005D18FCC7271B4B84418032800F39487C73C90D839D4B0BC59EC2FBC28BADEF"><div class="sc-cSHVUG jZSLFe"><div class="sc-cSHVUG kXIIFK"><div><label for="fieldName" class="sc-gzVnrw hYNtOw">Name </label><input id="fieldName" maxLength="200" name="cm-name" class="sc-gZMcBi dshyOS" /></div></div><div class="sc-cSHVUG kXIIFK"><div><label for="fieldEmail" class="sc-gzVnrw cKFCFj">Email <span class="sc-dnqmqq iFTUZ">*</span></label><input autoComplete="Email" id="fieldEmail" maxLength="200" name="cm-giuttl-giuttl" required type="email" class="js-cm-email-input qa-input-email sc-gZMcBi dshyOS" /></div></div><div class="sc-cSHVUG jZSLFe"></div></div><button type="submit" class="js-cm-submit-button sc-brqgnP dwYSlG">Subscribe</button></form></div></div></div></div></div><style>.iIDDUy { background: rgb(255, 255, 255); border-radius: 0.3125rem; max-width: 35.25rem; margin-left: auto; margin-right: auto; padding: 2.5rem 2.75rem; position: relative; }.hYNtOw { font-family: "Helvetica", Arial, sans-serif; font-weight: 400; color: rgb(93, 93, 101); display: block; font-size: 0.875rem; }.cKFCFj { font-family: "Helvetica", Arial, sans-serif; font-weight: 400; color: rgb(93, 93, 101); display: block; font-size: 0.875rem; }.iFTUZ { color: rgb(221, 54, 42); }.dshyOS { appearance: none; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0.1875rem; box-sizing: border-box; box-shadow: rgba(142, 154, 173, 0.1) 0px 2px 0px 0px inset, rgb(210, 215, 223) 0px 0px 0px 1px inset, rgb(255, 255, 255) 0px 1px 0px 0px; color: rgb(67, 77, 93); font-size: 0.875rem; line-height: 1.5; min-height: 2.8125rem; outline: 0px; padding: 0.75rem 1rem; transition: box-shadow 0.2s; width: 100%; }.dshyOS:focus { box-shadow: transparent 0px 0px 0px 0px inset, rgb(80, 156, 246) 0px 0px 0px 1px inset, rgba(80, 156, 246, 0.25) 0px 0px 0px 2px; }.jZSLFe { margin-bottom: 1.5rem; }.kXIIFK { margin-bottom: 1rem; }.gIFfJb { margin-bottom: 0rem; }.jslhpj { margin-left: auto; margin-right: auto; max-width: 29.125rem; padding-bottom: 3.125rem; }.dHHjsW { font-size: 48px; text-align: center; letter-spacing: -1px; line-height: 1.17; font-family: "Lato", Arial, sans-serif; font-weight: 900; color: rgb(255, 255, 255); }.jmtkzV { font-size: 3rem; text-align: center; letter-spacing: -1px; line-height: 1.17; font-family: "Lato", Arial, sans-serif; font-weight: 900; color: rgb(0, 0, 0); }.jCvNiK { font-size: 2em; margin: 0.67em 0px; font-weight: bold; color: rgb(0, 0, 0); }@keyframes iECmZH {0% { transform: rotate(0deg); }100% { transform: rotate(360deg); }}@keyframes iECmZH {0% { transform: rotate(0deg); }100% { transform: rotate(360deg); }}.fMCcOm { background-color: rgb(1, 54, 145); border: medium; border-radius: 3px; color: rgb(255, 255, 255); display: inline-block; font-family: "Helvetica", Arial, sans-serif; font-weight: 400; font-size: 1rem; line-height: 1; outline: 0px; padding: 0.75rem 1.5rem; text-decoration: none; transition: background-color 0.1s ease-in, box-shadow 0.1s ease-in; }.fMCcOm:hover { cursor: pointer; }.dwYSlG { background-color: rgb(123, 177, 61); border: medium; border-radius: 3px; color: rgb(255, 255, 255); display: inline-block; font-family: "Helvetica", Arial, sans-serif; font-weight: 400; font-size: 1rem; line-height: 1; outline: 0px; padding: 0.75rem 1.5rem; text-decoration: none; transition: background-color 0.1s ease-in, box-shadow 0.1s ease-in; }.dwYSlG:hover { cursor: pointer; }a, abbr, address, article, aside, b, blockquote, body, caption, cite, code, dd, details, dialog, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, label, legend, li, main, menu, nav, object, ol, p, pre, section, small, span, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, u, ul { border: 0px; margin: 0px; padding: 0px; }*, ::after, ::before { box-sizing: inherit; }html { font-family: Helvetica Neue, Arial, sans-serif; font-size: 16px; }h1, h2, h3, h4, h5, h6, html { color: rgb(67, 77, 93); font-weight: 400; line-height: 1.5; }a { color: rgb(25, 169, 229); text-decoration: underline; }button, label, p { overflow-wrap: break-word; word-break: break-word; }</style><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script><script>WebFont.load({google:{families:['Lato:900:latin']}});</script><script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
 
 

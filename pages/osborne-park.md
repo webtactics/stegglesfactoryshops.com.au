@@ -14,7 +14,7 @@ permalink: /osborne-park.html
 
 
 <div>
-    <h1>Sign up to receive best prices on quality chicken and turkey products from The Steggles Shop Osborne Park.</h1>
+ 
    
 
 <form class="js-cm-form" id="subForm" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="191722FC90141D02184CB1B62AB3DC2622DFDAC6C55E7CA01C64F3134F3171EF005D18FCC7271B4B84418032800F39487C73C90D839D4B0BC59EC2FBC28BADEF">
@@ -34,6 +34,6 @@ permalink: /osborne-park.html
 </form>
 
 </div>
-<script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+
 
 
