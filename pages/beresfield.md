@@ -3,7 +3,7 @@ layout: layouts/email.njk
 title:  Sign up to receive best prices on quality chicken and turkey products from The Steggles Shop Beresfield.
 date: 2025-07-28
 description: The Steggles Shop Beresfield is a factory outlet located at 124 Howe St, Beresfield WA 6017 and your one-stop shop for fresh poultry and turkey, served by our friendly and experienced staff, direct to the public at great prices.
-permalink: /beresfield
+permalink: /beresfield.html
 
 ---
 
