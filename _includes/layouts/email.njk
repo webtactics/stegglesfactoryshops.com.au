@@ -1,0 +1,19 @@
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+
+{% include "components/head.njk" %}
+
+	
+<body class=" {{ class }} internal" >
+<div class="container">
+<h1 class="heading-text">{{ title }}</h1>
+{% block content %}
+<main class="content">  
+{{ content | safe }}
+</main>
+{% endblock %}
+</div>
+
+{% include "components/javascript.njk" %}
+
+</body>
+</html>
