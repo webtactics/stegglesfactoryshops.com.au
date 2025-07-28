@@ -286,3 +286,7 @@ ul.slick-dots {margin:0;}
 
 /* email sign-up forms */
 
+body.email {
+   
+    background-color: #001c78;
+}
