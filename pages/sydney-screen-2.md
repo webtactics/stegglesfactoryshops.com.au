@@ -7,4 +7,4 @@ description: Screen-2 Loyalty 2
 permalink: /sydney-screen-2.html
 
 ---
-{% include "components/screen-2-loyalty.njk" %}
+<div>{% include "components/screen-2-loyalty.njk" %}</div>
