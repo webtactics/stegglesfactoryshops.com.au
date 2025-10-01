@@ -1,5 +1,5 @@
 ---
-layout: layouts/default1.njk
+layout: layouts/default.njk
 title: Sydney Screen 2
 date: 2025-03-03
 class: sydney-screen-2
@@ -8,3 +8,4 @@ permalink: /sydney-screen-2.html
 
 ---
 
+{% include "components/screen-2-loyalty.njk" %}
